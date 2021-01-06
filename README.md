@@ -5,7 +5,7 @@ Hello this is my app for the intro to Mobile Product Development - Android Pre-w
 
 ### App Walk-though
 
-<img src="https://recordit.co/s8jjqUVfIT" width=200><br> 
+https://recordit.co/s8jjqUVfIT
 
 
 
